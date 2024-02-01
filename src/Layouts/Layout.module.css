@@ -1,0 +1,17 @@
+.header{
+    background-color: #3874ff;
+    padding: 10px 20px;
+    margin-bottom: 150px;
+    border-radius: 10px;
+    text-align: center;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #3874ff;
+    padding: 20px;
+    margin-top: 80px;
+    border-radius: 10px;
+}
