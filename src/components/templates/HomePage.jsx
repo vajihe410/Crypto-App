@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react'
 import TableCoin from '../modules/TableCoin'
 import Pagination from '../modules/Pagination.jsx';
 import Search from '../modules/Search.jsx';
-
+//api
 import { getCoinList } from '../../services/cryptoApi.js';
 
 function HomePage() {
