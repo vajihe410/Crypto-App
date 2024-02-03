@@ -1,8 +1,11 @@
-# React + Vite
+#Crypto App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##Introduction
+This project is an app that shows crypto by name, market cap, current price, total volume, chart of changes and etc. It also has the possibility of searching.
 
-Currently, two official plugins are available:
+##Installaion
+npm insatll 
+npm install axios
+npm install recharts
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
